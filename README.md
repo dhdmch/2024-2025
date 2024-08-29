@@ -6,3 +6,7 @@ Il corso _Digital Humanities e Data Management per i Beni Culturali_ si propone 
 TODO
 ### Esame
 TODO
+### Link utili
+[Pagina ufficiale](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386)
+[Virtuale](https://virtuale.unibo.it/course/view.php?id=66104)
+[Date e orari](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386/orariolezioni)
