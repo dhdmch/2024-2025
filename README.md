@@ -8,9 +8,11 @@ Durante il corso, si darà particolare attenzione all'utilizzo di strumenti e me
 Gli studenti acquisiranno conoscenze teoriche e pratiche sui linguaggi, i modelli, gli strumenti e i principi necessari per ideare, progettare e implementare una risorsa digitale, basata su una gestione dei dati FAIR (_Findable_, _Accessible_, _Interoperable_ e _Reusable_), in grado di valorizzare il patrimonio culturale (testi letterari, documenti d'archivio, materiale bibliografico, oggetti museali, ecc.).
 
 ### Bibliografia
-TODO
+Vai alla [pagina ufficiale](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386) per la bibliografia completa, sia per frequentanti che per non-frequentanti.
+
 ### Esame
 TODO
+
 ### Link utili
 [Pagina ufficiale](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386)
 
