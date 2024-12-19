@@ -30,12 +30,10 @@ Dati che possono essere usati, **in parte o in tutto**: [Guide di Roma](https://
 Un esempio (in bozza e incompleto) di possibile progetto è [la nostra repo che abbiamo usato come tutorial](https://github.com/dhdmch/tutorial) durante le lezioni pratiche.
 
 Possibili idee di progetto includono:
-- Marcatura in TEI delle entità presenti nel testo, della sua struttura e dei suoi metadati contestuali (esempio parziale di documento marcato). Idealmente, dovreste anche spiegare perché avete utilizzato quei tag, come, con quali attributi, ecc.;
+- Marcatura in TEI delle entità presenti nel testo, della sua struttura e dei suoi metadati contestuali ([esempio parziale di documento marcato](esempi/esempio-tei.xml). Idealmente, dovreste anche spiegare perché avete utilizzato quei tag, come, con quali attributi, ecc.;
 - Raccolta e strutturazione di alcuni dati in una tabella (es. ogni riga rappresenta una chiesa, e ogni colonna una sua caratteristica) e pulizia dei dati usando OpenRefine (esempio parziale di tabella). Idealmente, dovreste anche spiegare perché avete strutturato la tabella in quel modo, quali buone pratiche avete seguito (separatori, schemi di codifica, ecc.). Non devono essere necessariamente standard internazionali, ma se seguite uno schema preciso (es. "Cognome, Nome" per le persone), dovete specificarlo nella documentazione e seguirlo in maniera sistematica;
 - Pulizia manuale (o anche tramite altri strumenti semi-automatici o automatici) del testo e analisi qualitativa e quantitativa dei termini utilizzati usando Voyant Tools. Idealmente, dovreste anche spiegare come avete corretto il testo, quali sono le stopwords che avete tolto o aggiunto, cosa avete scoperto, allegando anche immagini e visualizzazioni prodotte;
 - Modellazione semantica dei dati in RDF, creando degli esempi di modellazione in un file Turtle riusando ontologie esistenti, rappresentando entità (persone, monumenti, eventi, ecc.) e le loro proprietà (sia relazioni che attributi) (esempio parziale di modellazione). Idealmente, dovreste indicare gli elementi che avete estratto dal testo (quali classi? quali proprietà?), i vocabolari che avete deciso di riutilizzare e come li avete riutilizzati.
-
-
 
 ### Link utili
 * [Pagina ufficiale](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386)
