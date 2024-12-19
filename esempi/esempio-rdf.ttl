@@ -1,0 +1,58 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+
+
+<http://example.org/chiesa/sandrea-invinchi> a schema:Place ;
+    rdfs:label "S. Andrea in Vinchi" ;
+    schema:location <https://www.wikidata.org/entity/Q220> ;
+    dcterms:description "Chiesa di origine antica, riedificata nel XVI secolo da Carlo de Mochis." ;
+    dcterms:created "XVI secolo"^^rdf:Literal .
+
+<http://example.org/chiesa/sangelo_inborgo> a schema:Place ;
+    rdfs:label "S. Angelo in Borgo" ;
+    schema:location <https://www.wikidata.org/entity/Q220> ;
+    dcterms:description "Chiesa riedificata sotto Pio IV nel 1559." ;
+    dcterms:created "1559"^^xsd:gYear .
+
+<http://example.org/chiesa/sangelocustode> a schema:Place ;
+    rdfs:label "S. Angelo Custode" ;
+    schema:location <https://www.wikidata.org/entity/Q220> ;
+    dcterms:description "Chiesa edificata da Felice della Greca, con facciata di Mattia de Rossi." ;
+    dcterms:created "XVII secolo"^^rdf:Literal .
+
+<http://example.org/chiesa/sangeloinpeschiera> a schema:Place ;
+    rdfs:label "S. Angelo in Peschieria" ;
+    schema:location <https://www.wikidata.org/entity/Q220> ;
+    dcterms:description "Chiesa edificata nel 480 da Bonifacio II." ;
+    dcterms:created "480"^^xsd:gYear .
+
+#
+<http://example.org/persona/carlo_de_mochis> a foaf:Person ;
+    foaf:name "Carlo de Mochis" .
+
+<http://example.org/persona/antonio_nasi> a foaf:Person ;
+    foaf:name "Antonio Nasi" .
+
+<http://example.org/persona/giovanni_vecchi> a foaf:Person ;
+    foaf:name "Giovanni Vecchi" .
+
+<http://example.org/persona/giovanni_battista_brugel> a foaf:Person ;
+    foaf:name "Giovanni Battista Brugel" .
+
+
+<http://example.org/evento/ritorno_pio_IV> a schema:Event ;
+    schema:name "Restauro sotto Pio IV" ;
+    schema:startDate "1559"^^xsd:gYear ;
+    schema:location <https://www.wikidata.org/entity/Q220> ;
+    schema:description "Restauro della chiesa di S. Angelo in Borgo sotto il pontificato di Pio IV." .
+
+<http://example.org/evento/ristauro_bonifacio_ii> a schema:Event ;
+    schema:name "Fondazione di S. Angelo in Peschieria" ;
+    schema:startDate "480"^^xsd:gYear ;
+    schema:location <https://www.wikidata.org/entity/Q220> ;
+    schema:description "Fondazione della chiesa di S. Angelo in Peschieria da parte di Bonifacio II." .
+
