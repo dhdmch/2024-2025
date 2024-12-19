@@ -11,11 +11,31 @@ Gli studenti acquisiranno conoscenze teoriche e pratiche sui linguaggi, i modell
 Vai alla [pagina ufficiale](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386) per la bibliografia completa, sia per frequentanti che per non-frequentanti.
 
 ### Esame
-TODO
+#### Descrizione 
+L'esame consiste nella presentazione orale di un progetto di gestione dei dati riguardante le **guide turistiche di Roma**.
+
+Il progetto deve rispettare i seguenti criteri:
+* essere una repository Git pubblicata su GitHub, strutturata almeno con
+  * una cartella `data`, per i dati
+  * una cartella `docs`, per documentazione varia
+* avere una documentazione scritta in Markdown, che include:
+  * i vari README (uno per cartella)
+  * un Data Management Plan
+  * una piccola pagina Web, pubblicata tramite GitHub Pages, che servirà da principale vetrina di comunicazione per il progetto.
+
+#### Dati
+Dati che possono essere usati, **in parte o in tutto**: [Guide di Roma](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM).
+
+#### Esempi
+Un esempio (in bozza e incompleto) di possibile progetto è [la nostra repo che abbiamo usato come tutorial](https://github.com/dhdmch/tutorial) durante le lezioni pratiche.
+
+Possibili idee di progetto includono:
+- Marcatura in TEI delle entità presenti nel testo, della sua struttura e dei suoi metadati contestuali (esempio);
+- Raccolta e strutturazione di alcuni dati in una tabella (es. ogni riga rappresenta una chiesa, e ogni colonna una sua caratteristica) e pulizia dei dati usando OpenRefine (esempio);
+- Pulizia manuale (o anche tramite altri strumenti semi-automatici o automatici) del testo e analisi qualitativa e quantitativa dei termini utilizzati usando Voyant Tools (esempio);
+- Modellazione semantica dei dati in RDF, creando degli esempi di modellazione in file Turtle riusando ontologie esistenti, rappresentando entità (persone, monumenti, eventi, ecc.) e le loro proprietà (sia relazioni che attributi) (esempio).
 
 ### Link utili
-[Pagina ufficiale](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386)
-
-[Virtuale](https://virtuale.unibo.it/course/view.php?id=66104)
-
-[Date e orari](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386/orariolezioni)
+* [Pagina ufficiale](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386)
+* [Virtuale](https://virtuale.unibo.it/course/view.php?id=66104)
+* [Date e orari](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/502386/orariolezioni)
