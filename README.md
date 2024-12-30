@@ -21,7 +21,7 @@ Il progetto deve rispettare i seguenti criteri:
 * avere una documentazione scritta in Markdown, che include:
   * i vari README (uno per cartella)
   * un Data Management Plan
-  * una piccola pagina Web, pubblicata tramite GitHub Pages, che servirà da principale vetrina di comunicazione per il progetto.
+  * una piccola pagina Web, pubblicata tramite GitHub Pages, che servirà da principale vetrina di comunicazione per il progetto (vi consiglio di usare il README della cartella `docs`).
 
 #### Dati
 Dati che possono essere usati, **in parte o in tutto**: [Guide di Roma](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM).
