@@ -26,7 +26,19 @@ Il progetto deve rispettare i seguenti criteri:
 #### Dati
 Dati che possono essere usati, **in parte o in tutto**: [Guide di Roma](https://liveunibo-my.sharepoint.com/:f:/g/personal/sebastian_barzaghi2_unibo_it/EhinmY5b4h1Eoo-t2JOpaHwBHmr2BcGZK7YhwV9KUvTK2g?e=qizgrM).
 
-#### Esempi
+#### Progetti d'esame precedenti
+
+##### Strangeways, here we come - Vicende conservative di archivi e biblioteche nelle chiese di Roma
+* **Credits:** Giulia Guidarelli ([https://orcid.org/0009-0008-4489-3978](https://orcid.org/0009-0008-4489-3978)), Università di Bologna
+* **Link alla repo:** [https://github.com/ggdrll/shwc_Tani_project](https://github.com/ggdrll/shwc_Tani_project)
+* **Link alla presentazione:** [https://ggdrll.github.io/shwc_Tani_project/](https://ggdrll.github.io/shwc_Tani_project/)
+
+##### CDR-TMLA (Chiese di Roma- Tei Markup Language and Comparative Analysis)
+* **Credits:** Alba d'Elia ([https://orcid.org/0009-0009-3626-6779](https://orcid.org/0009-0009-3626-6779)), Università di Bologna
+* **Link alla repo:** [https://github.com/Albadelia/cdr_tmlca_examproject_dhdm](https://github.com/Albadelia/cdr_tmlca_examproject_dhdm)
+* **Link alla presentazione:** [https://albadelia.github.io/cdr_tmlca_examproject_dhdm/](https://albadelia.github.io/cdr_tmlca_examproject_dhdm/)
+
+#### Altri esempi
 Un esempio (in bozza e incompleto) di possibile progetto è [la nostra repo che abbiamo usato come tutorial](https://github.com/dhdmch/tutorial) durante le lezioni pratiche.
 
 Possibili idee di progetto includono:
