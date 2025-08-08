@@ -30,6 +30,15 @@ Se si desidera utilizzare dati diversi (per interessi personali, una tesi, un pr
 
 #### Progetti d'esame precedenti
 
+##### SIDE QUEST - MAIN QUEST. Visualizzazione e analisi geospaziale delle chiese di Roma
+* **Credits:** Esther Montserrat Giordano, [https://orcid.org/0009-0000-3672-376X](https://orcid.org/0009-0000-3672-376X) , Università di Bologna
+* **Link alla repo:** [https://github.com/malemg/sqmq_project](https://github.com/malemg/sqmq_project)
+* **Link alla presentazione:** [https://malemg.github.io/sqmq_project/](https://malemg.github.io/sqmq_project/)
+
+##### Quer Pasticciaccio
+* **Credits:** Elisabetta Sabattini, [https://orcid.org/0009-0007-9900-8895](https://orcid.org/0009-0007-9900-8895), Università di Bologna
+* **Link alla repo:** [https://github.com/elisabestia/qrpstcccc_project_dhdm](https://github.com/elisabestia/qrpstcccc_project_dhdm/tree/main)
+
 ##### Strangeways, here we come - Vicende conservative di archivi e biblioteche nelle chiese di Roma
 * **Credits:** Giulia Guidarelli ([https://orcid.org/0009-0008-4489-3978](https://orcid.org/0009-0008-4489-3978)), Università di Bologna
 * **Link alla repo:** [https://github.com/ggdrll/shwc_Tani_project](https://github.com/ggdrll/shwc_Tani_project)
