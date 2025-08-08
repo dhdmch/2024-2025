@@ -38,6 +38,7 @@ Se si desidera utilizzare dati diversi (per interessi personali, una tesi, un pr
 ##### Quer Pasticciaccio
 * **Credits:** Elisabetta Sabattini, [https://orcid.org/0009-0007-9900-8895](https://orcid.org/0009-0007-9900-8895), Università di Bologna
 * **Link alla repo:** [https://github.com/elisabestia/qrpstcccc_project_dhdm](https://github.com/elisabestia/qrpstcccc_project_dhdm/tree/main)
+* **Link alla presentazione:** [https://github.com/elisabestia/qrpstcccc_project_dhdm/blob/main/docs/plan/dtmngmnt_plan.md](https://github.com/elisabestia/qrpstcccc_project_dhdm/blob/main/docs/plan/dtmngmnt_plan.md)
 
 ##### Strangeways, here we come - Vicende conservative di archivi e biblioteche nelle chiese di Roma
 * **Credits:** Giulia Guidarelli ([https://orcid.org/0009-0008-4489-3978](https://orcid.org/0009-0008-4489-3978)), Università di Bologna
